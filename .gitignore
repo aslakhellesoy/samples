@@ -1,0 +1,14 @@
+*.class
+bin
+.manager
+.DS_Store
+*.sw?
+target/
+ignore/
+dist/
+lib_managed/
+src_managed/
+project/boot/
+.idea/
+.idea_modules/
+.gradle/
